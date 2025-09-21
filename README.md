@@ -15,8 +15,8 @@
 <p>I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
 
-- 🖇️ Visit My Portfolio:- **<a href="dayapal12portfolio.netlify.app"
-    target="_blank">dayapal12portfolio.netlify.app</a>**
+- 🖇️ Visit My Portfolio:- **<a href="[dayapal12portfolio.netlify.app](https://dayapal12portfolio.netlify.app/)"
+    target="_blank">[dayapal12portfolio.netlify.app](https://dayapal12portfolio.netlify.app/)</a>**
 - 💼 How to reach me:- **dayapal12pc@gmail.com**
     
 # 🌐 Socials:
