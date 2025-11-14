@@ -87,11 +87,15 @@
 <!-- GitHub Extra Pins -->
 ### 📌 Pinned Repositories
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
+ 
+  <a href="[https://github.com/Dayapal/Employee-Management-System](https://github.com/Dayapal/DedicatedBlog-App)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog Websites&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website – Full Stack Platform" />
+  </a>
   
   <a href="https://github.com/Dayapal/Employee-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Employee Management System" />
   </a>
+  
   <a href="https://github.com/Dayapal/Twitter-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Twitter Clone" />
   </a>
@@ -149,7 +153,7 @@
   <a href="https://dedicatedblog12-c6306a.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-2F80ED?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/Blog-website" target="_blank">
+  <a href="[https://github.com/Dayapal/Blog-website](https://github.com/Dayapal/DedicatedBlog-App)" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
