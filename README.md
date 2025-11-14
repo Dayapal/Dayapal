@@ -97,6 +97,22 @@
 
 ---
 
+## ✨ **👨‍💼 Employee Management System – NEW**  
+<p align="center">
+  <a href="https://employee-management23.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Employee%20Management%20System-Visit%20Now-29cc7a?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+### 🧾 Manage Employees Easily  
+✔ Add / Edit / Delete employees  
+✔ Clean UI and smooth user experience  
+✔ Real-time updates  
+✔ Fully responsive  
+✔ Tech: **React + Local Storage**
+
+---
+
 ## 🚀 **Full Stack E-Commerce App**  
 🔗 Live: https://your-link  
 💻 Tech: React, Node, Express, MongoDB  
