@@ -87,11 +87,14 @@
 <!-- GitHub Extra Pins -->
 ### 📌 Pinned Repositories
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="[[https://github.com/Dayapal/Blog-website](https://github.com/Dayapal/Twitter-clone)](https://github.com/Dayapal/Twitter-clone)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog-website&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Twitter-clone" />
+  <a href="https://github.com/Dayapal/Blog-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog-website&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website" />
   </a>
   <a href="https://github.com/Dayapal/Employee-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Employee Management System" />
+  </a>
+  <a href="https://github.com/Dayapal/Twitter-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Twitter Clone" />
   </a>
 </div>
 
@@ -171,6 +174,40 @@
 - 95+ Lighthouse performance score
 - Reduced load time by 40% with optimization
 - Enhanced user engagement with intuitive UI
+
+---
+
+### 🐦 **Twitter Clone – Social Media Platform**
+<p align="center">
+  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Project-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+**🎯 Project Overview:** A feature-rich Twitter clone that replicates core social media functionalities with real-time interactions and modern UI/UX design.
+
+**✨ Key Features:**
+- 💬 **Real-time Tweet** creation and publishing
+- 👥 **User Authentication** and profile management
+- 🔄 **Follow/Unfollow** system
+- ❤️ **Like & Retweet** functionality
+- 🔍 **Search & Discover** users and tweets
+- 📱 **Responsive Design** for all devices
+- 🎨 **Modern UI** mimicking Twitter's design
+- ⚡ **Fast Performance** with optimized rendering
+
+**🛠 Tech Stack:** 
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Tailwind CSS` `React Router`
+
+**📈 Technical Highlights:**
+- Real-time updates with Socket.io
+- Efficient state management
+- Scalable backend architecture
+- Optimized database queries
+- Secure authentication system
 
 ---
 
