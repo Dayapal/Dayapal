@@ -79,20 +79,35 @@
 
 # ⭐ Featured Projects
 
-## 🚀 **1. Full Stack E-Commerce App**
+---
+
+## ✨ **📚 Blog Website – Highlighted Project**  
+<p align="center">
+  <a href="https://dedicatedblog12-c6306a.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Blog%20Website-Visit%20Now-2F80ED?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+### 🔥 Modern Blog Platform  
+✔ Interactive UI with smooth UX  
+✔ Category filters + search  
+✔ Secure authentication  
+✔ User-friendly dashboard  
+✔ Tech: **React + Node + MongoDB**
+
+---
+
+## 🚀 **Full Stack E-Commerce App**  
 🔗 Live: https://your-link  
 💻 Tech: React, Node, Express, MongoDB  
 ✨ Features: Authentication, Cart, Payments  
 
-## 🎧 **2. Music Player App**
+---
+
+## 🎧 **Music Player App**  
 🔗 Live: https://your-link  
 💻 Tech: React + Context API  
 ✨ Features: Playlist, Dark Mode  
-
-## 📚 **3. Blog Website**
-🔗 Live: https://your-link  
-💻 Tech: React + Node  
-✨ Features: Search, Categories, Authentication  
 
 ---
 
@@ -126,7 +141,7 @@
 
 ---
 
-# 🌟 Support
+# 🌟 Support  
 If you like my work, consider giving a ⭐ to my repositories!
 
 ---
