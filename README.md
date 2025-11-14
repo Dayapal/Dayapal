@@ -89,7 +89,7 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
  
   <a href="https://github.com/Dayapal/DedicatedBlog-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog Websites&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website – Full Stack Platform" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website – Full Stack Platform" />
   </a>
   
   <a href="https://github.com/Dayapal/Employee-Management-System">
