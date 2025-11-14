@@ -87,8 +87,8 @@
 <!-- GitHub Extra Pins -->
 ### 📌 Pinned Repositories
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="[https://github.com/Dayapal/Blog-website](https://github.com/Dayapal/Twitter-clone)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog-website&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website" />
+  <a href="[[https://github.com/Dayapal/Blog-website](https://github.com/Dayapal/Twitter-clone)](https://github.com/Dayapal/Twitter-clone)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Blog-website&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Twitter-clone" />
   </a>
   <a href="https://github.com/Dayapal/Employee-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Employee Management System" />
