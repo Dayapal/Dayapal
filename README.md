@@ -250,7 +250,7 @@
   <a href="https://dayapal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/Portfolio" target="_blank">
+  <a href="https://github.com/Dayapal/Daya-Pal-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
