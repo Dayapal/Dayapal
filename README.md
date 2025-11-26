@@ -46,44 +46,44 @@
 
 ---
 
-# 📊 GitHub Analytics (100% WORKING)
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dayapal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayapal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<!-- Streak Stats -->
-<img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=tokyonight&hide_border=true" />
+<!-- GitHub Streak -->
+<img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 📌 Pinned Repositories (WORKING)
+## 📌 Pinned Repositories
 
-<div align="center" style="display:flex; gap:15px; flex-wrap:wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
 <a href="https://github.com/Dayapal/DedicatedBlog-App">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Dayapal/Employee-Management-System">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Dayapal/Twitter-clone">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight" />
 </a>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
 <p align="center">
@@ -107,37 +107,31 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 📚 Blog App
-🔗 https://dedicatedblog12-c6306a.netlify.app/  
-💻 Full-stack blog with Auth, CRUD, Search, Categories  
-🛠 Tech: React, Node, Express, MongoDB
-
----
+🔗 **Live Demo:** https://dedicatedblog12-c6306a.netlify.app/  
+📝 **Description:** Full-stack blog with Authentication, CRUD operations, Search, Categories  
+🛠 **Tech Stack:** React, Node.js, Express, MongoDB
 
 ### 🐦 Twitter Clone  
-🔗 https://github.com/Dayapal/Twitter-clone  
-💬 Real-time tweets, likes, follows  
-🛠 Tech: React, Node, Socket.io, MongoDB
-
----
+🔗 **Repository:** https://github.com/Dayapal/Twitter-clone  
+📝 **Description:** Real-time tweets, likes, follows functionality  
+🛠 **Tech Stack:** React, Node.js, Socket.io, MongoDB
 
 ### 👨‍💼 Employee Management System  
-🔗 https://employee-management23.netlify.app/  
-📊 HR dashboard with CRUD, filters, roles  
-🛠 Tech: React + LocalStorage
-
----
+🔗 **Live Demo:** https://employee-management23.netlify.app/  
+📝 **Description:** HR dashboard with CRUD operations, filters, role management  
+🛠 **Tech Stack:** React + LocalStorage
 
 ### 🎨 Portfolio Website  
-🔗 https://dayapal-portflio-21.netlify.app/  
-⚡ Framer Motion, contact form, modern UI  
-🛠 Tech: React + Tailwind
+🔗 **Live Demo:** https://dayapal-portflio-21.netlify.app/  
+📝 **Description:** Modern portfolio with Framer Motion animations, contact form  
+🛠 **Tech Stack:** React + Tailwind CSS
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=onedark&no-frame=true&row=2&column=4" />
@@ -145,5 +139,32 @@
 
 ---
 
-# 📊 Skill Metrics
+## 📊 Skill Metrics
 
+<div align="center">
+
+<!-- Additional stats or skill metrics can be added here -->
+
+</div>
+
+---
+
+<div align="center">
+
+## 📞 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daya-pal-4a9a2b1b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dayapal12pc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dayapal-portflio-21.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
