@@ -5,71 +5,48 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" alt="Wave"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
 
 ### 🚀 Full Stack Developer | MERN Stack Specialist | UI/UX Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&center=true&vCenter=true&width=600&height=60&pause=1200&color=2F80ED&lines=Passionate+Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+Expert;Building+Modern+Web+Applications;Clean+Code+%7C+Beautiful+UI+%7C+Scalable+Backend" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&center=true&vCenter=true&width=600&height=60&pause=1200&color=2F80ED&lines=Passionate+Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+Expert;Building+Modern+Web+Applications;Clean+Code+%7C+Beautiful+UI+%7C+Scalable+Backend" />
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dayapal&label=Profile+Views&color=2F80ED&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dayapal?label=Followers&style=for-the-badge&color=2F80ED" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Dayapal?label=Stars&style=for-the-badge&color=2F80ED" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Dayapal&label=Profile+Views&color=2F80ED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Dayapal?label=Followers&style=for-the-badge&color=2F80ED" />
+  <img src="https://img.shields.io/github/stars/Dayapal?label=Stars&style=for-the-badge&color=2F80ED" />
 </p>
 
 </div>
-
----
-
-## 📋 Table of Contents
-- [👨‍💻 About Me](#-about-me)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🛠️ Tech Stack](#️-tech-stack--tools)
-- [🚀 Featured Projects](#-featured-projects)
-- [🏆 Achievements](#-achievements--certifications)
-- [📈 Activity](#-development-activity)
-- [🎯 Currently Learning](#-currently-learning)
-- [💼 Experience](#-professional-experience)
-- [📫 Let's Connect](#-lets-connect--collaborate)
 
 ---
 
 ## 👨‍💻 About Me
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/d992eb49-108e-48e1-abdb-4a6aa5d5a552" width="300px" align="right" alt="Daya Pal" />
-
+  <img src="https://github.com/user-attachments/assets/d992eb49-108e-48e1-abdb-4a6aa5d5a552" width="280px" align="right" />
 </div>
 
-🎯 **Passionate Full Stack Developer** with expertise in modern web technologies  
-💡 **Problem Solver** who loves turning complex ideas into elegant solutions  
-🚀 **Continuous Learner** always exploring new technologies and best practices  
-🎨 **UI/UX Enthusiast** focused on creating beautiful, user-centered experiences  
-📝 **Clean Coder** who values readability, maintainability, and scalability  
-🤝 **Team Player** who thrives in collaborative environments  
-🎯 **Goal-Oriented** with strong project management skills  
+🎯 **Passionate Full Stack Developer**  
+💡 **Problem Solver**  
+🚀 **Continuous Learner**  
+🎨 **UI/UX Enthusiast**  
+📝 **Clean & Scalable Code**  
 
 ### 📍 Quick Facts
-- 🌐 **Portfolio**: [dayapal-portflio-21.netlify.app](https://dayapal-portflio-21.netlify.app/)
-- 📧 **Email**: dayapal12pc@gmail.com
-- 📍 **Location**: Delhi NCR, India
-- 💼 **Status**: Open to Full-time Opportunities & Collaborations
-- 🎓 **Education**: Bachelor of Arts in English, Delhi University
-- 🏫 **Bootcamp**: Full Stack Web Development, Masai School
-
-### 🎯 Career Objectives
-- Building scalable web applications with modern technologies
-- Creating intuitive user experiences with clean, efficient code
-- Collaborating with innovative teams on challenging projects
-- Continuously learning and adapting to new technologies
+- 🌐 Portfolio: **https://dayapal-portflio-21.netlify.app/**
+- 📧 Email: **dayapal12pc@gmail.com**
+- 📍 Location: **Delhi NCR, India**
+- 💼 Status: **Open to Opportunities**
+- 🎓 Education: **BA English — DU**
+- 🏫 Bootcamp: **Masai School**
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics (100% WORKING)
 
 <div align="center">
 
@@ -82,7 +59,13 @@
 <!-- Top Languages -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=tokyonight&hide_border=true" />
 
-### 📌 Pinned Repositories
+</div>
+
+---
+
+# 📌 Pinned Repositories (WORKING)
+
+<div align="center" style="display:flex; gap:15px; flex-wrap:wrap;">
 
 <a href="https://github.com/Dayapal/DedicatedBlog-App">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight" />
@@ -98,209 +81,69 @@
 
 </div>
 
-<!-- GitHub Extra Pins -->
-### 📌 Pinned Repositories
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
- 
-  <a href="https://github.com/Dayapal/DedicatedBlog-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Blog Website – Full Stack Platform" />
-  </a>
-  
-  <a href="https://github.com/Dayapal/Employee-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Employee Management System" />
-  </a>
-  
-  <a href="https://github.com/Dayapal/Twitter-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF" alt="Twitter Clone" />
-  </a>
-</div>
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
 
-### 💻 **Frontend Development**
+### 💻 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-### 🚀 **Backend Development**
+### ⚙ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 
-### 🛠 **Development Tools & Platforms**
+### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,figma,netlify,vercel,aws" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify,vercel,aws" />
 </p>
 
-### 📚 **Languages & Others**
+### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,androidstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📚 **Blog Website – Full Stack Platform**
-<p align="center">
-  <a href="https://dedicatedblog12-c6306a.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-2F80ED?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="[https://github.com/Dayapal/Blog-website](https://github.com/Dayapal/DedicatedBlog-App)" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**🎯 Project Overview:** A modern, full-stack blogging platform that allows users to create, read, update, and delete blog posts with secure authentication and rich user experience.
-
-**✨ Key Features:**
-- 🔐 **Secure Authentication** with JWT & bcrypt
-- 📝 **CRUD Operations** for blog management
-- 🏷️ **Smart Categorization** with multiple categories
-- 🔍 **Advanced Search & Filter** functionality
-- 📱 **Fully Responsive** mobile-first design
-- 🎨 **Modern UI/UX** with smooth animations
-- ⚡ **Performance Optimized** with lazy loading
-- 🔒 **Role-based Access Control**
-
-**🛠 Tech Stack:** 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` `bcrypt` `Axios` `React Router`
-
-**📈 Impact:**
-- 95+ Lighthouse performance score
-- Reduced load time by 40% with optimization
-- Enhanced user engagement with intuitive UI
+### 📚 Blog App
+🔗 https://dedicatedblog12-c6306a.netlify.app/  
+💻 Full-stack blog with Auth, CRUD, Search, Categories  
+🛠 Tech: React, Node, Express, MongoDB
 
 ---
 
-### 🐦 **Twitter Clone – Social Media Platform**
-<p align="center">
-  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_View_Project-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-**🎯 Project Overview:** A feature-rich Twitter clone that replicates core social media functionalities with real-time interactions and modern UI/UX design.
-
-**✨ Key Features:**
-- 💬 **Real-time Tweet** creation and publishing
-- 👥 **User Authentication** and profile management
-- 🔄 **Follow/Unfollow** system
-- ❤️ **Like & Retweet** functionality
-- 🔍 **Search & Discover** users and tweets
-- 📱 **Responsive Design** for all devices
-- 🎨 **Modern UI** mimicking Twitter's design
-- ⚡ **Fast Performance** with optimized rendering
-
-**🛠 Tech Stack:** 
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `JWT` `Tailwind CSS` `React Router`
-
-**📈 Technical Highlights:**
-- Real-time updates with Socket.io
-- Efficient state management
-- Scalable backend architecture
-- Optimized database queries
-- Secure authentication system
+### 🐦 Twitter Clone  
+🔗 https://github.com/Dayapal/Twitter-clone  
+💬 Real-time tweets, likes, follows  
+🛠 Tech: React, Node, Socket.io, MongoDB
 
 ---
 
-### 👨‍💼 **Employee Management System**
-<p align="center">
-  <a href="https://employee-management23.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-29cc7a?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://github.com/Dayapal/Employee-Management-System" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**🎯 Project Overview:** A comprehensive employee management system that streamlines HR operations with efficient data management and role-based access.
-
-**✨ Key Features:**
-- 👥 **Complete Employee Lifecycle** management
-- 💾 **Local Storage Integration** for offline capability
-- 🎯 **Role-based Access Control** (Admin/Employee)
-- 📊 **Advanced Data Management** with search & sort
-- 📱 **Mobile-First Responsive** design
-- 🎨 **Clean & Intuitive** user interface
-- ⚡ **Fast & Efficient** data operations
-
-**🛠 Tech Stack:** 
-`React` `JavaScript` `Tailwind CSS` `Local Storage` `Context API`
-
-**📈 Impact:**
-- Improved HR operational efficiency by 60%
-- Reduced manual data entry time by 75%
-- Enhanced data accuracy and accessibility
+### 👨‍💼 Employee Management System  
+🔗 https://employee-management23.netlify.app/  
+📊 HR dashboard with CRUD, filters, roles  
+🛠 Tech: React + LocalStorage
 
 ---
 
-### 🎨 **Portfolio Website**
-<p align="center">
-  <a href="https://dayapal-portflio-21.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://github.com/Dayapal/Daya-Pal-Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**🎯 Project Overview:** A professional portfolio website showcasing my skills, projects, and experience with modern design principles and optimal performance.
-
-**✨ Key Features:**
-- 🎯 **Modern & Professional** design aesthetic
-- 📱 **Fully Responsive** across all devices
-- ⚡ **Performance Optimized** (95+ Lighthouse score)
-- 🎨 **Smooth Animations** with Framer Motion
-- 📞 **Integrated Contact Form** with EmailJS
-- 🔍 **SEO Optimized** structure
-- 🌙 **Dark/Light Theme** ready
-
-**🛠 Tech Stack:** 
-`React` `Tailwind CSS` `Framer Motion` `EmailJS` `React Hook Form`
+### 🎨 Portfolio Website  
+🔗 https://dayapal-portflio-21.netlify.app/  
+⚡ Framer Motion, contact form, modern UI  
+🛠 Tech: React + Tailwind
 
 ---
 
-## 🏆 Achievements & Certifications
+# 🏆 Achievements
 
-### 🎓 Professional Certifications
-- **Full Stack Web Development** - Masai School (2024-2025)
-- **Employability Skills Certification** - FEA Academy (2021-2022)
-
-### 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=onedark&no-frame=true&margin-w=15&row=2&column=4&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=onedark&no-frame=true&row=2&column=4" />
 </p>
 
-### 📊 Skill Metrics
-```text
-Frontend Development  ████████████████████ 90%
-Backend Development   ██████████████████   85%
-Database Management   ██████████████       75%
-UI/UX Design          ██████████████████   80%
-Problem Solving       ████████████████████ 95%
-Team Collaboration    ██████████████████   85%
+---
+
+# 📊 Skill Metrics
+
