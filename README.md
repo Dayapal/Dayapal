@@ -74,14 +74,28 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayapal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dayapal&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dayapal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<!-- Streak Stats -->
+<img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 📌 Pinned Repositories
+
+<a href="https://github.com/Dayapal/DedicatedBlog-App">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Dayapal/Employee-Management-System">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Dayapal/Twitter-clone">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=tokyonight" />
+</a>
+
 </div>
 
 <!-- GitHub Extra Pins -->
