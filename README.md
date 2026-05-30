@@ -250,8 +250,9 @@
 
 ---
 
-### 🎨 **Portfolio Website**
-<div align="right">
+### 🎨 Portfolio Website
+
+<div align="left">
   <a href="https://DayaPal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -263,6 +264,7 @@
 **🎯 Project Overview:** A professional portfolio website showcasing my skills, projects, and experience with modern design principles and optimal performance.
 
 **✨ Key Features:**
+
 - 🎯 **Modern & Professional** design aesthetic
 - 📱 **Fully Responsive** across all devices
 - ⚡ **Performance Optimized** (95+ Lighthouse score)
@@ -272,6 +274,7 @@
 - 🌙 **Dark/Light Theme** ready
 
 **🛠 Tech Stack:**
+
 `React` `Tailwind CSS` `Framer Motion` `EmailJS` `React Hook Form`
 
 ---
