@@ -145,7 +145,7 @@
 </p>
 
 ### 📚 **Languages & Others**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,androidstudio,linux,bash" />
 </p>
 
@@ -154,7 +154,7 @@
 ## 🚀 Featured Projects
 
 ### 📚 **Blog Website – Full Stack Platform**
-<div align="center">
+<div align="left">
   <a href="https://dedicatedblog12-c6306a.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-2F80ED?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -186,7 +186,7 @@
 ---
 
 ### 🐦 **Twitter Clone – Social Media Platform**
-<div align="center">
+<div align="left">
   <a href="https://github.com/DayaPal/Twitter-clone" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -220,7 +220,7 @@
 ---
 
 ### 👨‍💼 **Employee Management System**
-<div align="center">
+<div align="left">
   <a href="https://employee-management23.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-29cc7a?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -251,7 +251,7 @@
 ---
 
 ### 🎨 **Portfolio Website**
-<div align="center">
+<div align="left">
   <a href="https://DayaPal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
