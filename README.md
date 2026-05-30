@@ -85,7 +85,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayaPal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 
 <!-- GitHub Extra Pins -->
-### 📌 Pinned Repositories
+###  Pinned Repositories
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://github.com/DayaPal/DedicatedBlog-App">
