@@ -79,10 +79,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DayaPal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaPal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</p>
-  
+
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaPal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED&langs_count=8" alt="Top Languages" />
 </div>
