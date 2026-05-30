@@ -81,9 +81,7 @@
 
 
 <!-- Top Languages -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaPal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaPal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayaPal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
