@@ -14,9 +14,9 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dayapal&label=Profile+Views&color=2F80ED&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dayapal?label=Followers&style=for-the-badge&color=2F80ED" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Dayapal?label=Stars&style=for-the-badge&color=2F80ED" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=DayaPal&label=Profile+Views&color=2F80ED&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DayaPal?label=Followers&style=for-the-badge&color=2F80ED" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/DayaPal?label=Stars&style=for-the-badge&color=2F80ED" alt="GitHub Stars" />
 </p>
 
 </div>
@@ -51,8 +51,8 @@
 🎯 **Goal-Oriented** with strong project management skills  
 
 ### 📍 Quick Facts
-- 🌐 **Portfolio**: [dayapal-portflio-21.netlify.app](https://dayapal-portflio-21.netlify.app/)
-- 📧 **Email**: dayapal12pc@gmail.com
+- 🌐 **Portfolio**: [DayaPal-portflio-21.netlify.app](https://DayaPal-portflio-21.netlify.app/)
+- 📧 **Email**: DayaPal12pc@gmail.com
 - 📍 **Location**: Delhi NCR, India
 - 💼 **Status**: Open to Full-time Opportunities & Collaborations
 - 🎓 **Education**: Bachelor of Arts in English, Delhi University
@@ -72,7 +72,7 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayapal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayaPal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DayaPal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
@@ -88,14 +88,14 @@
 ### 📌 Pinned Repositories
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://github.com/Dayapal/DedicatedBlog-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Blog Website – Full Stack Platform" />
+  <a href="https://github.com/DayaPal/DedicatedBlog-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Blog Website – Full Stack Platform" />
   </a>
-  <a href="https://github.com/Dayapal/Employee-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" />
+  <a href="https://github.com/DayaPal/Employee-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" />
   </a>
-  <a href="https://github.com/Dayapal/Twitter-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Twitter Clone" />
+  <a href="https://github.com/DayaPal/Twitter-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=Twitter-clone&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Twitter Clone" />
   </a>
 </div>
 
@@ -152,7 +152,7 @@
   <a href="https://dedicatedblog12-c6306a.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-2F80ED?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/DedicatedBlog-App" target="_blank">
+  <a href="https://github.com/DayaPal/DedicatedBlog-App" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -181,10 +181,10 @@
 
 ### 🐦 **Twitter Clone – Social Media Platform**
 <div align="center">
-  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
+  <a href="https://github.com/DayaPal/Twitter-clone" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/Twitter-clone" target="_blank">
+  <a href="https://github.com/DayaPal/Twitter-clone" target="_blank">
     <img src="https://img.shields.io/badge/🚀_View_Project-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
@@ -218,7 +218,7 @@
   <a href="https://employee-management23.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-29cc7a?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/Employee-Management-System" target="_blank">
+  <a href="https://github.com/DayaPal/Employee-Management-System" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -246,10 +246,10 @@
 
 ### 🎨 **Portfolio Website**
 <div align="center">
-  <a href="https://dayapal-portflio-21.netlify.app/" target="_blank">
+  <a href="https://DayaPal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://github.com/Dayapal/Daya-Pal-Portfolio" target="_blank">
+  <a href="https://github.com/DayaPal/Daya-Pal-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -278,7 +278,7 @@
 
 ### 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=radical&no-frame=true&margin-w=15&row=2&column=4&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=radical&no-frame=true&margin-w=15&row=2&column=4&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ### 📊 Skill Metrics
