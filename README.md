@@ -87,7 +87,24 @@
 
 <!-- GitHub Extra Pins -->
 
-### Pinned Repositories <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;"> <a href="https://github.com/Dayapal/DedicatedBlog-App"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Blog Website – Full Stack Platform" /> </a> <a href="https://github.com/Dayapal/Employee-Management-System"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" /> </a> <a href="https://github.com/Dayapal/Twitter-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DayaPal&repo=Twitter-clone&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Twitter Clone" /> </a> </div> </div> ---
+### 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Dayapal/DedicatedBlog-App">
+    <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="DedicatedBlog-App" />
+  </a>
+
+  <a href="https://github.com/Dayapal/Employee-Management-System">
+    <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" />
+  </a>
+
+  <a href="https://github.com/Dayapal/Twitter-clone">
+    <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Twitter Clone" />
+  </a>
+</p>
+
+---
+
 
 ## 🛠️ Tech Stack & Tools
 
