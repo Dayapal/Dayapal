@@ -287,7 +287,7 @@
 
 ### 🏅 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=radical&no-frame=true&margin-w=15&row=2&column=4&no-bg=true" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ### 📊 Skill Metrics
