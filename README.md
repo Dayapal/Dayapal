@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/473a097b-4ea1-4864-a199-462af621f9fc" width="100%" alt="Daya Pal - Full Stack Developer Banner" />
 </p>
 
-<div align="left">
+<div align="center">
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" alt="Wave"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
 
@@ -251,7 +251,7 @@
 ---
 
 ### 🎨 **Portfolio Website**
-<div align="left">
+<div align="right">
   <a href="https://DayaPal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
