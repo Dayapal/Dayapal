@@ -69,19 +69,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
-  
 <!-- GitHub Stats -->
 
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api?username=Dayapal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF" alt="GitHub Stats" />
 
   <img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
 
