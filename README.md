@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/473a097b-4ea1-4864-a199-462af621f9fc" width="100%" alt="Daya Pal - Full Stack Developer Banner" />
 </p>
 
-<div align="center">
+<div align="left">
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" alt="Wave"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
 
