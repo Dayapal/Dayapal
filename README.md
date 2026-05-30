@@ -75,14 +75,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayapal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="GitHub Stats" />
   
   <!-- Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Dayapal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DayaPal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
   
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaPal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED&langs_count=8" alt="Top Languages" />
 </div>
 
 <!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayapal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DayaPal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 
 <!-- GitHub Extra Pins -->
 ### 📌 Pinned Repositories
