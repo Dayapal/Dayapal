@@ -70,9 +70,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DayaPal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="GitHub Stats" />
+
   
 <!-- GitHub Stats -->
 <p align="center">
