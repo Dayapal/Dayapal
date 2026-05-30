@@ -69,12 +69,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<!-- GitHub Stats -->
-
 
 <p align="center">
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api?username=Dayapal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF" alt="GitHub Stats" />
-
   <img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
@@ -82,13 +79,8 @@
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
 
-
-
-
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayaPal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-
-<!-- GitHub Extra Pins -->
 
 ### 📌 Pinned Repositories
 
@@ -96,18 +88,17 @@
   <a href="https://github.com/Dayapal/DedicatedBlog-App">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="DedicatedBlog-App" />
   </a>
-
   <a href="https://github.com/Dayapal/Employee-Management-System">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" />
   </a>
-
   <a href="https://github.com/Dayapal/Twitter-clone">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Twitter-clone&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Twitter Clone" />
   </a>
 </p>
 
----
+</div>
 
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -250,8 +241,7 @@
 
 ---
 
-### 🎨 Portfolio Website
-
+### 🎨 **Portfolio Website**
 <div align="left">
   <a href="https://DayaPal-portflio-21.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -264,7 +254,6 @@
 **🎯 Project Overview:** A professional portfolio website showcasing my skills, projects, and experience with modern design principles and optimal performance.
 
 **✨ Key Features:**
-
 - 🎯 **Modern & Professional** design aesthetic
 - 📱 **Fully Responsive** across all devices
 - ⚡ **Performance Optimized** (95+ Lighthouse score)
@@ -274,7 +263,6 @@
 - 🌙 **Dark/Light Theme** ready
 
 **🛠 Tech Stack:**
-
 `React` `Tailwind CSS` `Framer Motion` `EmailJS` `React Hook Form`
 
 ---
@@ -287,7 +275,7 @@
 
 ### 🏅 GitHub Achievements
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ### 📊 Skill Metrics
@@ -309,3 +297,5 @@
 ## 📈 Development Activity
 
 ### 🗓️ Weekly Development Breakdown
+
+<!-- No content provided – layout preserved as-is -->
