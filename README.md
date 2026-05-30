@@ -112,7 +112,7 @@
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 **Frontend Development**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
   <br/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117&color=2F80ED" />
@@ -123,7 +123,7 @@
 </p>
 
 ### 🚀 **Backend Development**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,redis" />
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117&color=2F80ED" />
@@ -134,7 +134,7 @@
 </p>
 
 ### 🛠 **Development Tools & Platforms**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,figma,netlify,vercel,aws,linux,docker" />
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117&color=2F80ED" />
