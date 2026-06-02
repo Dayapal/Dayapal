@@ -88,6 +88,9 @@
   <a href="https://github.com/Dayapal/DedicatedBlog-App">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="DedicatedBlog-App" />
   </a>
+  <a href="https://github.com/Dayapal/Video-calling-and-Chat-App">
+    <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Video-calling-and-Chat-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt=" Video Calling & Chat Application " />
+  </a>
   <a href="https://github.com/Dayapal/Employee-Management-System">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Employee-Management-System&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="Employee Management System" />
   </a>
