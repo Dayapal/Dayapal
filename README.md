@@ -280,7 +280,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"
     alt="GitHub Trophies"
   />
 </p>
