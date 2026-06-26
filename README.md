@@ -276,9 +276,13 @@
 - **Full Stack Web Development** - Masai School (2024-2025)
 - **Employability Skills Certification** - FEA Academy (2021-2022)
 
-### 🏅 GitHub Achievements
+<h3 align="center">🏅 GitHub Achievements</h3>
+
 <p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DayaPal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ### 📊 Skill Metrics
