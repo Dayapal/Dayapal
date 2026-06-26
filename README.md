@@ -279,7 +279,7 @@
 <h3 align="center">🏅 GitHub Achievements</h3>
 
 <p align="center">
-    <img src="https://trophy.ryglcloud.net/?username=Dayapal&theme=algolia&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=Dayapal&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
 
 ### 📊 Skill Metrics
