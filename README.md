@@ -279,10 +279,7 @@
 <h3 align="center">🏅 GitHub Achievements</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Dayapal&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"
-    alt="GitHub Trophies"
-  />
+    <img src="https://trophy.ryglcloud.net/?username=Dayapal&theme=algolia&no-frame=true&row=2&column=4" />
 </p>
 
 ### 📊 Skill Metrics
