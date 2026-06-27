@@ -276,11 +276,7 @@
 - **Full Stack Web Development** - Masai School (2024-2025)
 - **Employability Skills Certification** - FEA Academy (2021-2022)
 
-<h3 align="center">🏅 GitHub Achievements</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dayapal&theme=algolia&no-frame=true&row=2&column=4" />
-</p>
+<h3 align="center">🏅 GitHub Achievements</h3> <p align="center"> <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-Unlocked-blue?style=for-the-badge" alt="Pull Shark" /> <img src="https://img.shields.io/badge/⚡%20Quickdraw-Unlocked-success?style=for-the-badge" alt="Quickdraw" /> <img src="https://img.shields.io/badge/🚀%20YOLO-Unlocked-orange?style=for-the-badge" alt="YOLO" /> </p> <p align="center"> 🦈 <strong>Pull Shark</strong> — Unlocked on <strong>Aug 30, 2024</strong><br> Opened pull requests that have been merged. </p> <p align="center"> ⚡ <strong>Quickdraw</strong> — Unlocked on <strong>Aug 30, 2024</strong><br> Closed a pull request within 5 minutes of opening it. </p> <p align="center"> 🚀 <strong>YOLO</strong> — Unlocked on <strong>Aug 28, 2024</strong><br> Merged a pull request without a review. </p>
 
 ### 📊 Skill Metrics
 <div align="center">
