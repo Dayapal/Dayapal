@@ -3,7 +3,6 @@
 </p>
 
 <div align="center">
-
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" alt="Wave"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
 
 ### 🚀 Full Stack Developer | MERN Stack Specialist | UI/UX Enthusiast
