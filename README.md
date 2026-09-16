@@ -1,27 +1,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/473a097b-4ea1-4864-a199-462af621f9fc" width="100%" alt="Daya Pal - Full Stack Developer Banner" />
 </p>
-# Daya Pal
 
 <div align="center">
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px" alt="Wave"> Hello, I'm <span style="color:#4b9ce2;">Daya Pal</span>
-**Full Stack Developer · React · Node.js · MongoDB · JavaScript**
 
 ### 🚀 Full Stack Developer | MERN Stack Specialist | UI/UX Enthusiast
-Full-stack developer focused on building maintainable web applications with secure authentication, clean REST APIs, and responsive user interfaces. I work primarily with the MERN stack and care about writing clear, well-structured code that solves real problems.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&center=true&vCenter=true&width=600&height=60&pause=1200&color=2F80ED&lines=Passionate+Full+Stack+Developer;React+%7C+Node+%7C+MongoDB+Expert;Building+Modern+Web+Applications;Clean+Code+%7C+Beautiful+UI+%7C+Scalable+Backend" alt="Typing Animation" />
-<p>
-  <a href="https://DayaPal-portflio-21.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://github.com/Dayapal">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="mailto:DayaPal12pc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 <!-- Visitor Counter -->
@@ -30,13 +17,10 @@ Full-stack developer focused on building maintainable web applications with secu
   <img src="https://img.shields.io/github/followers/DayaPal?label=Followers&style=for-the-badge&color=2F80ED" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/DayaPal?label=Stars&style=for-the-badge&color=2F80ED" alt="GitHub Stars" />
 </p>
----
 
 </div>
-## About
 
 ---
-I build full-stack web applications using React on the frontend and Node.js/Express on the backend, with MongoDB for data persistence. My projects typically involve user authentication with JWT and bcrypt, role-based access control, RESTful API design, and responsive UI built with Tailwind CSS.
 
 ## 📋 Table of Contents
 - [👨‍💻 About Me](#-about-me)
@@ -48,20 +32,14 @@ I build full-stack web applications using React on the frontend and Node.js/Expr
 - [🎯 Currently Learning](#-currently-learning)
 - [💼 Experience](#-professional-experience)
 - [📫 Let's Connect](#-lets-connect--collaborate)
-I completed a full-stack web development program at Masai School (2024–2025), where I built multiple production-style applications from scratch — handling everything from database modeling and API architecture to frontend state management and deployment.
-
-Based in Delhi NCR, India. Open to full-time opportunities and collaborations.
 
 ---
 
 ## 👨‍💻 About Me
-## Tech Stack
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d992eb49-108e-48e1-abdb-4a6aa5d5a552" width="300px" align="right" alt="Daya Pal" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(47, 128, 237, 0.3);" />
 </div>
-### Frontend
-`React` `JavaScript` `TypeScript` `HTML` `CSS` `Tailwind CSS` `Redux` `React Router` `Vite` `Framer Motion`
 
 🎯 **Passionate Full Stack Developer** with expertise in modern web technologies  
 💡 **Problem Solver** who loves turning complex ideas into elegant solutions  
@@ -70,8 +48,6 @@ Based in Delhi NCR, India. Open to full-time opportunities and collaborations.
 📝 **Clean Coder** who values readability, maintainability, and scalability  
 🤝 **Team Player** who thrives in collaborative environments  
 🎯 **Goal-Oriented** with strong project management skills  
-### Backend
-`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt` `Socket.io`
 
 ### 📍 Quick Facts
 - 🌐 **Portfolio**: [DayaPal-portflio-21.netlify.app](https://DayaPal-portflio-21.netlify.app/)
@@ -80,57 +56,36 @@ Based in Delhi NCR, India. Open to full-time opportunities and collaborations.
 - 💼 **Status**: Open to Full-time Opportunities & Collaborations
 - 🎓 **Education**: Bachelor of Arts in English, Delhi University
 - 🏫 **Bootcamp**: Full Stack Web Development, Masai School
-### Databases
-`MongoDB` `MySQL` `PostgreSQL`
 
 ### 🎯 Career Objectives
 - Building scalable web applications with modern technologies
 - Creating intuitive user experiences with clean, efficient code
 - Collaborating with innovative teams on challenging projects
 - Continuously learning and adapting to new technologies
-### Tools & Deployment
-`Git` `GitHub` `VS Code` `Postman` `Netlify` `Vercel` `Render`
 
 ---
 
 ## 📊 GitHub Analytics
-## Featured Projects
 
 <div align="center">
-### Blog Platform — Full-Stack MERN Application
 
 <p align="center">
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api?username=Dayapal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=FFFFFF" alt="GitHub Stats" />
   <img height="180em" src="https://streak-stats.demolab.com?user=Dayapal&theme=radical&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=2F80ED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" alt="GitHub Streak" />
 </p>
-A blogging platform with separate admin and user roles. Authenticated users can create, read, update, and delete blog posts. The system enforces role-based access so only authorized users can manage content.
 
 <p align="center">
   <img height="180em" src="https://github-stats-dayapal.vercel.app/api/top-langs/?username=Dayapal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </p>
-**Engineering highlights:**
-- JWT-based authentication with bcrypt password hashing
-- Role-based access control (Admin / User)
-- Full CRUD operations for blog post management
-- Category-based organization with search and filtering
-- Responsive layout with Tailwind CSS
-- REST API with Express.js and MongoDB
 
 <!-- GitHub Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DayaPal&theme=react-dark&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
-**Stack:** React · Node.js · Express · MongoDB · JWT · bcrypt · Tailwind CSS
 
 ### 📌 Pinned Repositories
 
 <p align="left">
   <a href="https://github.com/Dayapal/DedicatedBlog-App">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=DedicatedBlog-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt="DedicatedBlog-App" />
-<p>
-  <a href="https://dedicatedblog12-c6306a.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-0D1117?style=flat&logo=netlify&logoColor=white" alt="Live Demo" />
-  </a>&nbsp;
-  <a href="https://github.com/DayaPal/DedicatedBlog-App">
-    <img src="https://img.shields.io/badge/Source_Code-0D1117?style=flat&logo=github&logoColor=white" alt="Source Code" />
   </a>
   <a href="https://github.com/Dayapal/Video-calling-and-Chat-App">
     <img src="https://github-stats-dayapal.vercel.app/api/pin/?username=Dayapal&repo=Video-calling-and-Chat-App&theme=radical&bg_color=0D1117&title_color=2F80ED&text_color=FFFFFF&border_color=2F80ED" alt=" Video Calling & Chat Application " />
@@ -148,7 +103,6 @@ A blogging platform with separate admin and user roles. Authenticated users can 
 ---
 
 ## 🛠️ Tech Stack & Tools
-### Video Calling & Chat Application
 
 ### 💻 **Frontend Development**
 <p align="left">
@@ -160,7 +114,6 @@ A blogging platform with separate admin and user roles. Authenticated users can 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117&color=2F80ED" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117&color=2F80ED" />
 </p>
-A real-time communication application supporting video calls and text chat between users, built with WebRTC and Socket.io for peer-to-peer connections and real-time messaging.
 
 ### 🚀 **Backend Development**
 <p align="left">
@@ -172,11 +125,6 @@ A real-time communication application supporting video calls and text chat betwe
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=0D1117&color=2F80ED" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white&labelColor=0D1117&color=2F80ED" />
 </p>
-**Engineering highlights:**
-- Real-time video calling with WebRTC
-- Live text chat using Socket.io
-- Peer connection management and signaling
-- Responsive UI for desktop and mobile
 
 ### 🛠 **Development Tools & Platforms**
 <p align="left">
@@ -188,21 +136,15 @@ A real-time communication application supporting video calls and text chat betwe
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117&color=2F80ED" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117&color=2F80ED" />
 </p>
-**Stack:** React · Node.js · Express · Socket.io · WebRTC
 
 ### 📚 **Languages & Others**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,cpp,androidstudio,linux,bash" />
-<p>
-  <a href="https://github.com/Dayapal/Video-calling-and-Chat-App">
-    <img src="https://img.shields.io/badge/Source_Code-0D1117?style=flat&logo=github&logoColor=white" alt="Source Code" />
-  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-### Employee Management System
 
 ### 📚 **Blog Website – Full Stack Platform**
 <div align="left">
@@ -213,15 +155,8 @@ A real-time communication application supporting video calls and text chat betwe
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-A client-side application for managing employee records with role-based views. Admins can assign, track, and manage tasks while employees see their own dashboards. Data is persisted using browser local storage.
 
 **🎯 Project Overview:** A modern, full-stack blogging platform that allows users to create, read, update, and delete blog posts with secure authentication and rich user experience.
-**Engineering highlights:**
-- Role-based access control (Admin / Employee dashboards)
-- Task assignment and status tracking
-- Data persistence with Local Storage
-- State management using React Context API
-- Search and sort functionality
 
 **✨ Key Features:**
 - 🔐 **Secure Authentication** with JWT & bcrypt
@@ -232,18 +167,9 @@ A client-side application for managing employee records with role-based views. A
 - 🎨 **Modern UI/UX** with smooth animations
 - ⚡ **Performance Optimized** with lazy loading
 - 🔒 **Role-based Access Control**
-**Stack:** React · JavaScript · Tailwind CSS · Context API · Local Storage
 
 **🛠 Tech Stack:** 
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` `bcrypt` `Axios` `React Router`
-<p>
-  <a href="https://employee-management23.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-0D1117?style=flat&logo=netlify&logoColor=white" alt="Live Demo" />
-  </a>&nbsp;
-  <a href="https://github.com/DayaPal/Employee-Management-System">
-    <img src="https://img.shields.io/badge/Source_Code-0D1117?style=flat&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
 
 **📈 Impact:**
 - 95+ Lighthouse performance score
@@ -261,13 +187,8 @@ A client-side application for managing employee records with role-based views. A
     <img src="https://img.shields.io/badge/🚀_View_Project-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
-### Other Projects
 
 **🎯 Project Overview:** A feature-rich Twitter clone that replicates core social media functionalities with real-time interactions and modern UI/UX design.
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Twitter UI Clone** | Frontend replica of Twitter's interface with responsive sidebar navigation, tweet feed layout, and trending section | HTML · CSS · JavaScript | [Source](https://github.com/DayaPal/Twitter-clone) |
-| **Portfolio Website** | Personal portfolio with project showcase, contact form via EmailJS, and smooth scroll animations | React · Tailwind CSS · Framer Motion · EmailJS | [Live](https://DayaPal-portflio-21.netlify.app/) · [Source](https://github.com/DayaPal/Daya-Pal-Portfolio) |
 
 **✨ Key Features:**
 - 💬 **Real-time Tweet** creation and publishing
@@ -300,14 +221,8 @@ A client-side application for managing employee records with role-based views. A
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-## GitHub Activity
 
 **🎯 Project Overview:** A comprehensive employee management system that streamlines HR operations with efficient data management and role-based access.
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dayapal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayapal&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
-</p>
 
 **✨ Key Features:**
 - 👥 **Complete Employee Lifecycle** management
@@ -337,16 +252,8 @@ A client-side application for managing employee records with role-based views. A
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-## Currently Exploring
 
 **🎯 Project Overview:** A professional portfolio website showcasing my skills, projects, and experience with modern design principles and optimal performance.
-```
-→ Advanced React patterns and performance optimization
-→ Next.js application architecture
-→ Backend architecture and scalable API design
-→ PostgreSQL and relational database modeling
-→ Data structures and algorithms
-```
 
 **✨ Key Features:**
 - 🎯 **Modern & Professional** design aesthetic
@@ -363,17 +270,12 @@ A client-side application for managing employee records with role-based views. A
 ---
 
 ## 🏆 Achievements & Certifications
-## Certifications
 
 ### 🎓 Professional Certifications
 - **Full Stack Web Development** - Masai School (2024-2025)
 - **Employability Skills Certification** - FEA Academy (2021-2022)
 - **Magic Bus Livelihood Programme** - MAGIC BUS FOUNDATION (2022-2023)
 - **Junior Software Developer** - EXL (AIF) (2022-2023)
-- **Full Stack Web Development** — Masai School (2024–2025)
-- **Junior Software Developer** — EXL / AIF (2022–2023)
-- **Livelihood Programme** — Magic Bus Foundation (2022–2023)
-- **Employability Skills** — FEA Academy (2021–2022)
 
 <h3 align="center">🏅 GitHub Achievements</h3> <p align="center"> <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-Unlocked-blue?style=for-the-badge" alt="Pull Shark" /> <img src="https://img.shields.io/badge/⚡%20Quickdraw-Unlocked-success?style=for-the-badge" alt="Quickdraw" /> <img src="https://img.shields.io/badge/🚀%20YOLO-Unlocked-orange?style=for-the-badge" alt="YOLO" /> </p> <p align="center"> 🦈 <strong>Pull Shark</strong> — Unlocked on <strong>Aug 30, 2024</strong><br> Opened pull requests that have been merged. </p> <p align="center"> ⚡ <strong>Quickdraw</strong> — Unlocked on <strong>Aug 30, 2024</strong><br> Closed a pull request within 5 minutes of opening it. </p> <p align="center"> 🚀 <strong>YOLO</strong> — Unlocked on <strong>Aug 28, 2024</strong><br> Merged a pull request without a review. </p>
 
@@ -394,14 +296,7 @@ A client-side application for managing employee records with role-based views. A
 ---
 
 ## 📈 Development Activity
-## Contact
 
 ### 🗓️ Weekly Development Breakdown
-Interested in collaborating on web development projects or discussing engineering ideas?
 
 <!-- No content provided – layout preserved as-is -->
-<p>
-  <a href="https://DayaPal-portflio-21.netlify.app/">Portfolio</a> · 
-  <a href="mailto:DayaPal12pc@gmail.com">DayaPal12pc@gmail.com</a> · 
-  <a href="https://github.com/Dayapal">GitHub</a>
-</p>
